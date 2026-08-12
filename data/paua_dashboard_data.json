@@ -6,8 +6,8 @@
       "nom": "Aprobar plan de estudios",
       "resp": "Juan Álvaro López Quintero - Coordinador de Posgrados",
       "esp": 100,
-      "avance": 91,
-      "comentario": ""
+      "avance": 3,
+      "comentario": "fadsfasdfasdf"
     },
     {
       "proj": 1,
@@ -15,8 +15,8 @@
       "nom": "Presentar al Comité Central de Posgrado",
       "resp": "Juan Álvaro López Quintero - Coordinador de Posgrados",
       "esp": 100,
-      "avance": 42,
-      "comentario": ""
+      "avance": 4,
+      "comentario": "11111"
     },
     {
       "proj": 1,
@@ -24,7 +24,7 @@
       "nom": "Presentar al Consejo Académico",
       "resp": "Juan Álvaro López Quintero - Coordinador de Posgrados",
       "esp": 91,
-      "avance": null,
+      "avance": 5,
       "comentario": ""
     },
     {
@@ -1294,5 +1294,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-12T19:25:58.947Z"
+  "lastUpdated": "2026-08-12T19:27:28.062Z"
 }
